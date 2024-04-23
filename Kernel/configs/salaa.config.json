@@ -199,6 +199,7 @@
       "custom": {
         "repo": "https://github.com/easterNday/AnyKernel3/",
         "branch": "master"
+      }
     },
     "enableKernelSU": true,
     "enableLXC": true
